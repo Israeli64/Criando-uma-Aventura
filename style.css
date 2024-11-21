@@ -1,0 +1,35 @@
+/* código omitido */
+
+body {background-color: #185f0a ;
+    color: greenyellow;
+    font-family: "Caveat", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    font-size: 30px;
+    margin: 0;
+}
+button {
+    background-color: #64A712;
+    color: greenyellow;
+    font-family: "Bai Jamjuree", sans-serif;
+    font-size: 20px;
+
+}
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
